@@ -1,2 +1,2 @@
 # JavaRushTasks2020
-Most interest and hard tasks from javarush.ru online courses
+Most interesting and hard tasks from javarush.ru online courses
