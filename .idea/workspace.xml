@@ -87,8 +87,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/task3702/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -384,12 +384,12 @@
       <workItem from="1595278351099" duration="3775000" />
       <workItem from="1595719575115" duration="1296000" />
       <workItem from="1595763943549" duration="1592000" />
-      <workItem from="1595967919892" duration="459000" />
+      <workItem from="1595967919892" duration="1150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9786000" />
+    <option name="totallyTimeSpent" value="10477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1940" height="1046" extended-state="0" />
@@ -770,8 +770,8 @@
     <entry file="file://$PROJECT_DIR$/src/task3702/Условие.jrtc" />
     <entry file="file://$PROJECT_DIR$/src/task3702/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
