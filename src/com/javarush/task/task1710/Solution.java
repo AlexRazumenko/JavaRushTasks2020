@@ -1,4 +1,4 @@
-package com.javarush.task.task17.task1710;
+package com.javarush.task.task1710;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -40,11 +40,12 @@ public class Solution {
                 print(args);
                 break;
             default:
+                System.out.println("This command is not exists!");
                 break;
         }
     }
 
-    public static void create(String args[]) throws ParseException {
+    public static void create(String args[]) throws ParseException, NumberFormatException {
         String name = args[1];
 
         SimpleDateFormat dateFormat1 = new SimpleDateFormat("dd/MM/yyyy", Locale.ENGLISH);
@@ -56,7 +57,7 @@ public class Solution {
         System.out.println(allPeople.indexOf(person));
     }
 
-    public static void update(String args[]) throws ParseException {
+    public static void update(String args[]) throws ParseException, NumberFormatException {
         person = allPeople.get(Integer.parseInt(args[1]));
         person.setName(args[2]);
         if (args[3].equals("м")) person.setSex(Sex.MALE);
@@ -72,7 +73,6 @@ public class Solution {
         person = allPeople.get(Integer.parseInt(args[1]));
         person.setName(null);
         person.setSex(null);
-        ;
         person.setBirthDate(null);
     }
 

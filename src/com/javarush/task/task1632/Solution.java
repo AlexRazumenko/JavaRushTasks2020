@@ -1,11 +1,11 @@
-package com.javarush.task.task16.task1632;
+package com.javarush.task.task1632;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Solution {
-    public static List<Thread> threads = new ArrayList<>(5);
+    private static List<Thread> threads = new ArrayList<>(5);
 
     static {
         threads.add(new NewThread1());
@@ -48,7 +48,6 @@ public class Solution {
                 while (!isInterrupted()) {
                     System.out.println("Ура");
                     Thread.sleep(500);
-
                 }
             } catch (InterruptedException e) {
                 System.out.println("InterruptedException");
@@ -62,9 +61,7 @@ public class Solution {
 
         @Override
         public void run() {
-
             while (b) {
-
             }
         }
 
@@ -88,16 +85,13 @@ public class Solution {
                     int a = Integer.parseInt(input);
                     sum += a;
                 } catch (NumberFormatException e) {
+                    System.out.println("Not a number. Please input correct data!");
                     continue;
                 }
-
-
             }
 
+            scanner.close();
             System.out.println(sum);
-
         }
     }
-
-
 }

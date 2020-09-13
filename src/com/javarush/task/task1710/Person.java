@@ -1,4 +1,4 @@
-package com.javarush.task.task17.task1710;
+package com.javarush.task.task1710;
 
 import java.util.Date;
 

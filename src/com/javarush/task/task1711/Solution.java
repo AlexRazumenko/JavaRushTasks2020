@@ -1,4 +1,4 @@
-package com.javarush.task.task17.task1711;
+package com.javarush.task.task1711;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -12,7 +12,7 @@ CRUD 2
 */
 
 public class Solution {
-    public static volatile List<Person> allPeople = new ArrayList<Person>();
+    private static volatile List<Person> allPeople = new ArrayList<Person>();
 
     static {
         allPeople.add(Person.createMale("Иванов Иван", new Date()));  //сегодня родился    id=0

@@ -3,7 +3,10 @@ Tasks list:
 task1522 - Singleton pattern (lazy initialization) 
 task1527 - Console request parser
 task1531 - Factorial calculating
-	
+task1631 - Factory method pattern
+task1632 - Ball of thread (create 5 threads, each one with own implementation of run method)
+task1710 - CrUD - Create, Update, Delete
+task1711 - CrUD Batch - multiple Creation, Updates, Deletion
 
 
 task2212 - Checking phone number

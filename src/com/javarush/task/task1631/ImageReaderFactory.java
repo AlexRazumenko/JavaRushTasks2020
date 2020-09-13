@@ -1,6 +1,6 @@
-package com.javarush.task.task16.task1631;
+package com.javarush.task.task1631;
 
-import com.javarush.task.task16.task1631.common.*;
+import com.javarush.task.task1631.common.*;
 
 public class ImageReaderFactory {
 
@@ -10,7 +10,7 @@ public class ImageReaderFactory {
             case BMP: return new BmpReader();
             case JPG: return new JpgReader();
             case PNG: return new PngReader();
-            default: throw new IllegalArgumentException();
+            default: throw new IllegalArgumentException("Неизвестный тип картинки");
         }
     }
 

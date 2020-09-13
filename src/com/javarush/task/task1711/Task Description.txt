@@ -1,5 +1,6 @@
-taskKey="com.javarush.task.task17.task1711"\n\nCRUD 2
+task1711
 
+CRUD 2
 CrUD Batch - multiple Creation, Updates, Deletion.
 
 Программа запускается с одним из следующих наборов параметров:
