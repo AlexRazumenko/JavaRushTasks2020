@@ -40,14 +40,14 @@ public class Beach implements Comparable<Beach> {
     }
 
     public static void main(String[] args) {
+        Beach beach1 = new Beach("Arcadia", 0.01f, 5);
+        Beach beach2 = new Beach("Lanzheron", 0.02f, 4);
+
 
     }
 
     @Override
     public synchronized int compareTo(Beach o) {
-//        int thisRating = this.quality + Math.round(this.distance);
-//        int otherRating = o.quality + Math.round(o.distance);
-//        return thisRating - otherRating;
         return (this.getQuality() - (int) this.getDistance()) - (o.getQuality() - (int) o.getDistance());
     }
 }

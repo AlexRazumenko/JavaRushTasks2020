@@ -1,4 +1,4 @@
-package com.javarush.task.task18.task1822;
+package com.javarush.task.task1822;
 
 /* 
 Поиск данных внутри файла

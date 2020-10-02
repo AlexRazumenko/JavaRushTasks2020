@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f215298f-30a9-49ee-9f6e-2efacafb7368" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/task1631/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/task1632/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/task1710/Условие.jrtc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/ImageReaderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/ImageReaderFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/common/BmpReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/common/BmpReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/common/ImageReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/common/ImageTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/common/JpgReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/common/JpgReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1631/common/PngReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1631/common/PngReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1632/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1632/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1632/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1632/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1710/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1710/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1710/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1710/Sex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1710/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1710/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1711/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1711/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Sex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1711/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1711/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1711/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javarush/task/task1522/Task Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javarush/task/task1522/Task Description.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1714/Beach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1714/Beach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1821/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1821/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1822/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1822/Условие.jrtc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1827/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1827/Условие.jrtc" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,21 +23,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1828/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#310#318#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Условие.jrtc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Условие.jrtc">
-          <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
         </entry>
       </file>
     </leaf>
@@ -105,6 +81,12 @@
         <option value="$PROJECT_DIR$/src/com/javarush/task/task1710/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/task/task1711/Person.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/task/task1711/Solution.java" />
+        <option value="$PROJECT_DIR$/src/task1714/Beach.java" />
+        <option value="$PROJECT_DIR$/src/task1822/Solution.java" />
+        <option value="$PROJECT_DIR$/src/task1821/Solution.java" />
+        <option value="$PROJECT_DIR$/src/task1827/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/task/task1827/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/task/task1828/Solution.java" />
       </list>
     </option>
   </component>
@@ -129,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +140,7 @@
               <item name="JavaRushTasks2020" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task1711" type="462c0819:PsiDirectoryNode" />
+              <item name="task1828" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks2020" type="b2602c69:ProjectViewProjectNode" />
@@ -175,7 +158,13 @@
               <item name="JavaRushTasks2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaRushTasks2020" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task1821" type="462c0819:PsiDirectoryNode" />
+              <item name="task1714" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaRushTasks2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaRushTasks2020" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task1828" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks2020" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -193,6 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../space/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -205,6 +194,7 @@
       <recent name="task3204" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\JavaRushTasks2020\src\com\javarush\task" />
       <recent name="C:\Users\Alex\IdeaProjects\JavaRushTasks2020\src\com\javarush\task" />
       <recent name="C:\Users\Alex\IdeaProjects\JavaRushTasks2020\src" />
       <recent name="C:\Users\Alex\IdeaProjects\JavaRushTasks2020\src\task3610" />
@@ -328,14 +318,19 @@
       <workItem from="1599768547926" duration="589000" />
       <workItem from="1600031550838" duration="598000" />
       <workItem from="1600038097691" duration="2848000" />
+      <workItem from="1600205806704" duration="807000" />
+      <workItem from="1600466057811" duration="1501000" />
+      <workItem from="1600893309056" duration="1301000" />
+      <workItem from="1601670869464" duration="5428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38356000" />
+    <option name="totallyTimeSpent" value="47393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1934" height="1046" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -345,19 +340,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36872998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38580576" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" />
@@ -374,121 +369,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/task3610/MyMultiMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3701/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/female/KidGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/female/TeenGirl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/female/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/female/FemaleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/male/TeenBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/male/KidBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/male/MaleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/male/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3702/Условие.jrtc" />
-    <entry file="file://$PROJECT_DIR$/src/task3702/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task2212/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task3001/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/task3009/conditions">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -496,13 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1326/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -526,170 +399,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/ImageReaderFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/BmpReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/JpgReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/PngReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1631/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1632/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1632/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1632/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-803">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Message.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Task Description.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Sex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding>
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1710/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1710/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1623/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/ImageReaderFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/BmpReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/ImageTypes.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/JpgReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/common/PngReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1631/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Условие.jrtc" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1632/Message.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1632/Условие.jrtc" />
+    <entry file="file://$PROJECT_DIR$/src/task1632/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Message.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Условие.jrtc" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1631/Task Description.txt" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Условие.jrtc" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Sex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1710/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/task1710/Условие.jrtc" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1632/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1710/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Условие.jrtc" />
     <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding>
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,14 +436,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1821/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1711/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="136">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#310#318#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1714/Beach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1714/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1821/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1821/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1821/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1822/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1822/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1822/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1827/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1822/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1827/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1326/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1828/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-928">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1827/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="77" column="43" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1828/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1828/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/task1623/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/task/task1828/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
         </state>
       </provider>
     </entry>

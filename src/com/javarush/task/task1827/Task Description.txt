@@ -1,6 +1,8 @@
-taskKey="com.javarush.task.task18.task1827"\n\nПрайсы
+task1827
 
+Прайсы
 CrUD для таблицы внутри файла.
+
 Считать с консоли имя файла для операций CrUD.
 Программа запускается со следующим набором параметров:
 -c productName price quantity
